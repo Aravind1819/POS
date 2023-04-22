@@ -1,0 +1,82 @@
+.ss{
+    background-image: url("./cc.jpg");
+    background-position: center;
+    height: 100vh;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+.image{
+    background-image: url("./food.jpeg");
+    background-position: center;
+    height: 100vh;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+.ufood{
+    background-image: url("./updatefood.jpeg");
+    background-position: center;
+    height: 100vh;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+.store{
+    background-image: url("./storefood.jpeg");
+    background-position: center;
+    height: 100vh;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+.cart{
+    background-image: url("./cartimage.jpg");
+    background-position: center;
+    height: 100vh;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+.store{
+    background-image: url("./storeimage.jpg");
+    background-position: center;
+    height: 100vh;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+
+.updatestore{
+    background-image: url("./storeimage.jpg");
+    background-position: center;
+    height: 100vh;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+
+.viewfood{
+    background-image: url("./viewfoodimage.jpg");
+    background-position: center;
+    height: 100vh;
+    overflow-y: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
